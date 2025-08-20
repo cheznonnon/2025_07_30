@@ -18,5 +18,7 @@ I think I will not code for Win32 Version<br>
 project files of Nonnon for Mac<br>
 Xcode can open (maybe)<br>
 
+some apps have special repositories. see [Repositories](https://cheznonnon.github.io/Nonnon_for_Mac/readme/catpad.html)<br>
+
 "Nonnon for Mac" repo has the last notarized binaries.<br>
 https://github.com/cheznonnon/Nonnon_for_Mac
